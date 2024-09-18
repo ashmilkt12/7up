@@ -1,0 +1,123 @@
+.pic{
+    height: 66.2px;;
+    width: 120px;
+     margin-left: 150px;
+     margin-top:17px;
+    
+  
+}
+                                                                                                          
+.serach-sel{
+  display: flex;
+
+
+
+}
+.add-icon{
+  display: flex;
+  align-items: center;
+}
+
+
+
+.text1{
+ position: absolute;
+ top: 90px;
+ margin-left: 80px;
+
+  
+}
+.image1{
+ 
+ margin-left: 14px;
+margin-bottom:150 ;
+background-color: yellow;
+position: absolute;
+top: 201px;
+}
+
+
+.image2{
+  
+margin-left: 80px;
+margin-bottom:100 ;
+background-color: yellow;
+position: absolute;
+top: 230px;
+  
+ 
+}
+
+
+
+.image3{
+
+  margin-left: 160px;
+margin-bottom:100 ;
+background-color: yellow;
+position: absolute;
+top: 230px;
+
+}
+
+   
+ 
+
+.image4{
+  margin-left: 240px;
+margin-bottom:100 ;
+background-color: yellow;
+
+position: absolute;
+top: 240px;
+}
+.texttop{
+  font-family: ut-bold;
+  font-weight: 90;
+  margin: 0;
+  outline:none;
+  box-sizing: border-box;
+margin-left: 94px;
+position: absolute;
+top: 107px;
+
+}
+.home{
+
+text-align: center;
+
+}
+
+.searchicon{
+position: absolute;
+top: 40px;
+margin-left: 613px;
+}
+.searchbutton{
+position: absolute;
+top: -78px;
+margin: left 598px;
+
+}
+.image5{
+  margin-left: 240px;
+  margin-bottom:100 ;
+  background-color: yellow;
+  
+  position: absolute;
+  top: 240px;
+
+}
+.image6{
+  margin-left: 340px;
+ 
+  background-color: yellow;
+  
+  position: absolute;
+  top: 250px;
+}
+.menubar{
+  position: absolute;
+top: 40px;
+margin-left: 613px;
+}
